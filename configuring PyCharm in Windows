@@ -1,0 +1,16 @@
+Following are the steps to configure pycharm in windows
+
+1. Download pycharm
+2. Download python vesion 3 AS version 2  doesnt support pip freeze. support will expire in 2020
+3. select pure python as the language.
+4.set the location where python 3 is installed in the interpreter.
+5. start coding
+
+
+Following steps are to configure the python on CMD
+1. add path variables of path where python 3 is installed
+2. https://datatofish.com/add-python-to-windows-path/
+
+Installing virtual env.
+1.python -m venv venv/
+2.C:\Users\pooja.soni1\Documents\Git1>venv\Scripts\activate
